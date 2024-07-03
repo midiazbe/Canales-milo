@@ -1,0 +1,251 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="General",13C (1080p)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="Entertainment",13 Entretención (720p)
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Music",13 Festival (1080p)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Comedy",13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1 tvg-id="13Kids.cl" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Kids",13 Kids (1080p)
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="13P.cl" tvg-logo="https://i.imgur.com/R6D228s.png" group-title="Lifestyle",13 Prime (720p)
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+#EXTINF:-1 tvg-id="13Realities.cl" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="Entertainment",13 Realities (1080p)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Series",13 Teleseries (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="News",24 Horas (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="454" tvg-name="TVN - Reuters" tvg-logo="https://cdn.m3u.cl/logo/454_TVN___Reuters.png", TVN - Reuters ✪ | CL
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://cdn.m3u.cl/logo/453_TVN___24h.png", TVN - 24h ✪ | CL
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN ✪ | CL
+https://panel.miplay.cl:8081/tvn/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas ✪ | CL
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", Mega ✪ | CL
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://cdn.m3u.cl/logo/449_Meganoticias.png", Meganoticias ✪ | CL
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV ✪ | CL
+https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1569" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png", CHV Deportes ✪ | CL
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 ✪ | CL
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1199" tvg-name="D13" tvg-logo="https://cdn.m3u.cl/logo/1199_D13.png", D13 ✪ | CL
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png", T13 ✪ | CL
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1198" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png", T13 Radio ✪ | CL
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png", 13 Cultura | CL
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://cdn.m3u.cl/logo/979_13_Entretencion.png", 13 Entretencion | CL
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Prime.png", 13 Prime | CL
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png", 13 Teleseries | CL
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1446" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png", 13 Festival | CL
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1447" tvg-name="13 Humor" tvg-logo="https://cdn.m3u.cl/logo/1447_13_Humor.png", 13 Humor | CL
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1448" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png", 13 Realities | CL
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports FHD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/121857
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + FHD (CL)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Deportes",Directv Sports + FHD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/121856
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports 2 FHD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/187724
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Directv Sports SD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports SD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34609
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Directv Sports SD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Deportes",Directv Sports SD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34610
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Directv Sports FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/51364
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="Directv Sports 2 HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports 2 HD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34612
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="Directv Sports 2 FHD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Deportes",Directv Sports 2 FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34614
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Directv Sports + FHD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Deportes",Directv Sports + FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34616
+#EXTINF:-1 tvg-id="CO - Claro Sports" tvg-name="Claro Sports SD (CO)" tvg-logo="http://img.tvcl.xyz/deportes/clarosports.png" group-title="Deportes",Claro Sports SD (CO)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34617
+#EXTINF:-1 tvg-id="CO - Claro Sports" tvg-name="Claro Sports FHD (CO)" tvg-logo="http://img.tvcl.xyz/deportes/clarosports.png" group-title="Deportes",Claro Sports FHD (CO)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34618
+#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="Fox Sports SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports SD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34621
+#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="Fox Sports FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports FHD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34622
+#EXTINF:-1 tvg-id="MX - FOX Sports 2" tvg-name="Fox Sports 2 SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 2 SD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34623
+#EXTINF:-1 tvg-id="MX - FOX Sports 2" tvg-name="Fox Sports 2 FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 2 FHD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34624
+#EXTINF:-1 tvg-id="MX - FOX Sports 3" tvg-name="Fox Sports 3 SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 3 SD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34625
+#EXTINF:-1 tvg-id="MX - FOX Sports 3" tvg-name="Fox Sports 3 FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 3 FHD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34626
+#EXTINF:-1 tvg-id="CL - FOX Sports" tvg-name="Fox Sports SD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports SD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34627
+#EXTINF:-1 tvg-id="CL - FOX Sports" tvg-name="Fox Sports HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34628
+#EXTINF:-1 tvg-id="CL - FOX Sports 1" tvg-name="Fox Sports 1 SD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 1 SD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34630
+#EXTINF:-1 tvg-id="CL - FOX Sports 1" tvg-name="Fox Sports 1 HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 1 HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34631
+#EXTINF:-1 tvg-id="CL - FOX Sports 1" tvg-name="Fox Sports 1 FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 1 FHD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34632
+#EXTINF:-1 tvg-id="CL - FOX Sports 2" tvg-name="Fox Sports 2 SD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 2 SD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34633
+#EXTINF:-1 tvg-id="CL - FOX Sports 2" tvg-name="Fox Sports 2 HD (CL)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes",Fox Sports 2 HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34634
+#EXTINF:-1 tvg-id="CL - FOX Sports 2" tvg-name="Fox Sports 2 FHD (CL)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes",Fox Sports 2 FHD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34635
+#EXTINF:-1 tvg-id="CL - FOX Sports 3" tvg-name="Fox Sports 3 SD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 3 SD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34636
+#EXTINF:-1 tvg-id="CL - FOX Sports 3" tvg-name="Fox Sports 3 HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 3 HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34637
+#EXTINF:-1 tvg-id="CL - FOX Sports 3" tvg-name="Fox Sports 3 FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 3 FHD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34638
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Fox Sports SD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports SD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34639
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Fox Sports HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports HD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34640
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Fox Sports FHD (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes",Fox Sports FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34641
+#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-name="Fox Sports 2 SD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 2 SD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34642
+#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-name="Fox Sports 2 HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 2 HD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34643
+#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-name="Fox Sports 2 FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 2 FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34644
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Fox Sports 3 SD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 3 SD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34645
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Fox Sports 3 HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 3 HD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34646
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Fox Sports 3 FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 3 FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34647
+#EXTINF:-1 tvg-id="AR - FOX Sports HD" tvg-name="Fox Sports Premium FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports Premium FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34648
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1 HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 1 HD (US)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34649
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 2 HD (US)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34650
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Deportes HD (US)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34651
+#EXTINF:-1 tvg-id="CL - ESPN" tvg-name="ESPN HD (CL)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes",ESPN HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/123652
+#EXTINF:-1 tvg-id="CL - ESPN 2" tvg-name="ESPN 2 HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 2 HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/123653
+#EXTINF:-1 tvg-id="CL - ESPN 3" tvg-name="ESPN 3 HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 3 HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/123654
+#EXTINF:-1 tvg-id="MX - ESPN HD" tvg-name="ESPN SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN SD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34652
+#EXTINF:-1 tvg-id="MX - ESPN HD" tvg-name="ESPN FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN FHD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34653
+#EXTINF:-1 tvg-id="MX - ESPN HD" tvg-name="ESPN + FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN + FHD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34654
+#EXTINF:-1 tvg-id="MX - ESPN 2" tvg-name="ESPN 2 SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 2 SD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34655
+#EXTINF:-1 tvg-id="MX - ESPN 2" tvg-name="ESPN 2 FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 2 FHD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34656
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="ESPN 3 SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 3 SD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34657
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="ESPN 3 FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 3 FHD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34658
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-name="ESPN SD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN SD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34659
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-name="ESPN HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN HD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34660
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-name="ESPN FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34661
+#EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="ESPN 2 SD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 2 SD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34662
+#EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="ESPN 2 HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 2 HD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34663
+#EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="ESPN 2 FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 2 FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34664
+#EXTINF:-1 tvg-id="AR - ESPN 3" tvg-name="ESPN 3 SD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 3 SD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34665
+#EXTINF:-1 tvg-id="AR - ESPN 3" tvg-name="ESPN 3 HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 3 HD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34666
+#EXTINF:-1 tvg-id="AR - ESPN 3" tvg-name="ESPN 3 FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 3 FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34667
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN HD (US)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34668
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 2 HD (US)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34669
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN Deportes HD (US)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34670
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN News HD (US)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34671
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN U HD (US)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN U HD (US)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34672
+#EXTINF:-1 tvg-id="CL - TNT Sports" tvg-name="TNT Sports FHD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports FHD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34676
+#EXTINF:-1 tvg-id="CL - TNT Sports" tvg-name="TNT Sports HD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34675
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports FHD (OP2)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports FHD (OP2)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/123716
+#EXTINF:-1 tvg-id="CL - TNT Sports 2" tvg-name="TNT Sports 2 SD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports 2 SD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34674
+#EXTINF:-1 tvg-id="CL - TNT Sports" tvg-name="TNT Sports 3 SD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports 3 SD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/123886
+#EXTINF:-1 tvg-id="CL - TNT Sports 3" tvg-name="TNT Sports 3 FHD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports 3 FHD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/123887
+#EXTINF:-1 tvg-id="CL - CDO Básico" tvg-name="CDO Basico SD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/cdo.png" group-title="Deportes",CDO Basico SD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34678
+#EXTINF:-1 tvg-id="CL - CDO Premium" tvg-name="CDO Premium SD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/cdo.png" group-title="Deportes",CDO Premium SD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34679
+#EXTINF:-1 tvg-id="CL - CDO Premium" tvg-name="CDO Premium HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/cdo.png" group-title="Deportes",CDO Premium HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/121890
+#EXTINF:-1 tvg-id="CL - Teletrak" tvg-name="Teletrak HD (CL)" tvg-logo="http://hidra.live:80/images/a9fa697092b430b4fc0073bac0200604.png" group-title="Deportes",Teletrak HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34680
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/sporting.png" group-title="Deportes",Sporting HD (CL)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34681
+#EXTINF:-1 tvg-id="AR - TNT Sports" tvg-name="TNT Sports HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/tnt.png" group-title="Deportes",TNT Sports HD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34683
+#EXTINF:-1 tvg-id="AR - TNT Sports" tvg-name="TNT Sports FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/tnt.png" group-title="Deportes",TNT Sports FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34684
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports  SD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/tyc.png" group-title="Deportes",TyC Sports  SD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34685
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/tyc.png" group-title="Deportes",TyC Sports HD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34686
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/tyc.png" group-title="Deportes",TyC Sports FHD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34687
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports Internacional HD (ARG)" tvg-logo="http://hidra.live:80/images/ccb7e786706e39bb3ec404bbe0c7b9ac.png" group-title="Deportes",TyC Sports Internacional HD (ARG)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34688
+#EXTINF:-1 tvg-id="CO - Win Sports HD" tvg-name="Win Sports SD (CO)" tvg-logo="http://img.tvcl.xyz/deportes/winsports.png" group-title="Deportes",Win Sports SD (CO)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34689
+#EXTINF:-1 tvg-id="CO - Win Sports HD" tvg-name="Win Sports FHD (CO)" tvg-logo="http://img.tvcl.xyz/deportes/winsports.png" group-title="Deportes",Win Sports FHD (CO)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34690
+#EXTINF:-1 tvg-id="CO - Win Sports HD" tvg-name="Win Sports + FHD (CO)" tvg-logo="http://hidra.live:80/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="Deportes",Win Sports + FHD (CO)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34691
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV HD (ECU)" tvg-logo="http://img.tvcl.xyz/deportes/goltv.png" group-title="Deportes",Gol TV HD (ECU)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34693
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV FHD (ECU)" tvg-logo="http://89.187.170.146:25461/logos/deportes/goltv.png" group-title="Deportes",Gol TV FHD (ECU)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34694
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Golf Channel SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/golf.png" group-title="Deportes",Golf Channel SD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34695
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Golf Channel FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/golf.png" group-title="Deportes",Golf Channel FHD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34696
+#EXTINF:-1 tvg-id="Canal AYM Sports" tvg-name="AYM Sports SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/aym.png" group-title="Deportes",AYM Sports SD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34697
+#EXTINF:-1 tvg-id="Canal Adrenalina Sports Network" tvg-name="Adrenalina Sport Network FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/adrenalina.png" group-title="Deportes",Adrenalina Sport Network FHD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34699
+#EXTINF:-1 tvg-id="Canal TVC (México)" tvg-name="TVC Deportes SD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/tvc.png" group-title="Deportes",TVC Deportes SD (MX)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34700
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Canal F1 FHD (ES)" tvg-logo="http://img.tvcl.xyz/deportes/canalf1.png" group-title="Deportes",Canal F1 FHD (ES)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34701
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV SD (ES)" tvg-logo="http://img.tvcl.xyz/deportes/barca.png" group-title="Deportes",Barca TV SD (ES)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34702
+#EXTINF:-1 tvg-id="" tvg-name="b31N LA Liga FHD (ES)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N LA Liga FHD (ES)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34703
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="Movistar Deportes FHD (ES)" tvg-logo="http://img.tvcl.xyz/deportes/mdeportes.png" group-title="Deportes",Movistar Deportes FHD (ES)
+http://dnsplay.xyz:80/zjmzyjoo/Y4Mjcd5d82/34704
